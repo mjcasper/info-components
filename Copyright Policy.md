@@ -1,0 +1,4 @@
+All materials prepared and/or assigned by me for this course are for the students’ educational benefit. Other than for permitted collaborative work, students may not photograph, record, reproduce, transmit, distribute, upload, sell or exchange course materials, without my prior written permission. “Course materials” include, but are not limited to, all instructor-prepared and assigned materials, such as lectures; lecture notes; discussion prompts; study aids; tests and assignments; and presentation materials such as PowerPoint slides, Prezi slides, or transparencies; and course packets or handouts. Public distribution of such materials may also constitute copyright infringement in violation of federal or state law. 
+
+> **Academic Integrity Violation**
+> Violation of this policy may additionally subject a student to a finding of “academic dishonesty” under the Academic Integrity Policy and/or disciplinary charges under the Student Code of Conduct.

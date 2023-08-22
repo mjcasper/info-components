@@ -1,0 +1,1 @@
+Requests for individual exceptions to any policy or grading assessment described in this syllabus will not be granted. This is to ensure that all students are given equal opportunity to succeed in this class and are all graded by the same set of standards.
