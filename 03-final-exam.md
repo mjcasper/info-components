@@ -3,7 +3,7 @@ NO-FINAL
 There is not a cumulative final exam for this course.
 
 
-FINAL
+FINAL-EXAM
 
 There is one cumulative final exam given during Finals Week on the date listed in the [Weekly Calendar section](week/index) (and also on your HUB Student Center). This exam uses a traditional grading scheme, with partial credit where applicable. 
 
