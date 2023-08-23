@@ -1,5 +1,3 @@
-**Midterm Exam** questions will be graded using a traditional partial credit grading scheme. 
-
 **Checkpoint Exam** questions will **not** be graded using a traditional partial credit grading scheme.  Instead, each question will be graded as one of three possibilities:
 
 
@@ -11,10 +9,10 @@
 
 **Additional Attempts**: Each Checkpoint Exam question can be attempted at least twice for full credit as long as you keep scoring (P) Progressing each time.
 - The first attempt is during the lecture Checkpoint Exam.
-- The second attempt is during the next Checkpoint Exam.
-- Additionally, any Midterm Exam question that tests the same learning outcome may also be used as an additional attempt (at the discretion of the instructor). 
+- The second attempt is during the next Checkpoint Exam, the following week in lecture.
+- Additionally, any Midterm or Final Exam question that tests the same learning outcome may also be used as an additional attempt (at the discretion of the instructor). 
 
-All together this means that you potentially have 3 opportunities to earn full credit on a majority of the Checkpoint Exam questions.
+All together this means that you potentially have 4 opportunities to earn full credit on a majority of the Checkpoint Exam questions.
 
 
 > **Frequently Asked Questions**
@@ -24,3 +22,4 @@ All together this means that you potentially have 3 opportunities to earn full c
 > 
 > _Do I need to complete all questions on a Checkpoint Exam?_
 > - Not necessarily. You only need to complete those questions on which you originally earned a score of P (Progressing). If you originally scored M (Meets Expectations), you do not need to complete that problem again.
+

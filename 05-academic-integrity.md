@@ -19,4 +19,12 @@ Examples of Academic Integrity Violations:
 - Selling academic assignments.
 
 > **Exam Proctoring**
-> Students will be monitored and recorded during the entirety of all Course Exams and all footage of each student will be extensively reviewed by course staff.  Any suspicious activity or violation of the **Remote Exam Proctoring Policy** will be flagged and any flagged student will receive a grade of U (or 0) for all questions on the applicable exam. Depending on the circumstances additional sanctions may be imposed.
+> Students will be monitored during the entirety of all Course Exams.  Any suspicious activity or violation of the **Remote Exam Proctoring Policy** will be flagged and any flagged student will receive a grade of U (or 0) for all questions on the applicable exam. Depending on the circumstances additional sanctions may be imposed.
+
+
+<!--
+
+> **Exam Proctoring Warning**
+> Students will be monitored and recorded during the entirety of all Course Exams and all footage of each student will be extensively reviewed by course staff.  Any suspicious activity or violation of the [Exam Proctoring Policy](https://forum.bluetangent.org/t/syllabus-spring-2021/555#5-5-4-exam-proctoring-policy) will be flagged and any flagged student will receive a grade of U (or 0) for all questions on the applicable exam. Depending on the circumstances additional sanctions may be imposed.  
+
+-->

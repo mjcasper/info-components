@@ -1,0 +1,3 @@
+The instructor reserves the right to make attendance and participation at the guided homework sessions and recitations a mandatory requirement for any student whose progress in the course drops to a C- or below at any point during the semester. You will receive an email notification from the instructor if this happens to you.
+
+These additional requirements must then be met in order for you to take any applicable exams. In the event that you do not meet the requirements as stated in the email notification, you will automatically receive a grade of 0 for that exam. The email notification will explicitly list all additional requirements and applicable exams.
