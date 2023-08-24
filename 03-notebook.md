@@ -1,4 +1,4 @@
-You will submit a paper copy of your Homework Notebook containing your written solutions to the HW problems from WeBWorK.
+You will submit a copy of your Homework Notebook containing your written solutions to the HW problems from WeBWorK.
 
 
 Your notebook for each learning outcome will be graded as either: (M) Meets Expectations or (P) Progressing. The criteria we will be looking for are: number of solutions, neatness, and level of detail.

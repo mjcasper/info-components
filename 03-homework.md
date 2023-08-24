@@ -1,4 +1,4 @@
-There will be one Homework Assignment assigned for each learning outcome. Each set will be due at&nbsp;11:59pm ET on the day posted on WeBWorK (usually each Monday). 
+There will be one Homework Assignment assigned for each learning outcome. Each set will be due at&nbsp;11:59pm ET on the day posted on WeBWorK. 
 
 You must earn a score of 95% or better to ultimately earn credit for each Homework Set.
 

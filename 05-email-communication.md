@@ -8,4 +8,4 @@ While we encourage everyone to ask questions about the course, email will have t
 
 - Consult the syllabus before sending an email about course policy or grading, usually the answer is already in the syllabus. 
 - Emails requesting a make-up exam should clearly explain the reason for the request and provide proper documentation.
-- Emails requesting an individual homework extension will be replied to with a reference to the course Late Policy. 
+- Emails requesting an individual homework extension will not be responded to. See the course Late Policy for more details. 
