@@ -18,7 +18,7 @@ Boring? maybe. Important? yes!
 Follow the login instructions on the Intro to WeBWorK page (this page also has some helpful tips about using the system).
 :::
 :::{card} **3. Check out our Weekly Calendar**
-:link: start/calendar
+:link: week/index
 :link-type: doc
 
 The Weekly Calendar section contains it all: what we're covering each week, when and where we're covering it, and important assessment dates.
@@ -39,7 +39,7 @@ This is a quick quiz located on the WeBWoRK system covering some of the more fre
 :link: start/lecture-notes
 :link-type: doc
 
-1. Get **blank sheets of loose-leaf paper** to bring with you to each class.
+1. Get **blank sheets of printer paper** to bring with you to each class.
 2. Print out the **lecture note sheets** and bring with you to each class.
 :::
 
