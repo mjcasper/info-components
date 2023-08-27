@@ -23,5 +23,5 @@ MTH142
 
 MTH241
 
-1. Score of 70/100 or better on both the Fundamentals and the Algebra portions of the Math Readiness Assessment, or a C or better in ULC148, MTH 115 and a D or better in MTH 131, or MTH 141 or a score of 3 on AP Calculus.
+1. MTH 142 or MTH 154.
 

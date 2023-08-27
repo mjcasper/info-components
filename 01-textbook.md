@@ -44,9 +44,8 @@
 
 241
 
->**Textbook:** We will be covering material in Chapters 12-16 from *Calculus: Early Transcendental Single Variable* by J.&nbsp;Stewart
+>**Textbook:** We will be covering material in Chapters 12-16 from *Calculus: Early Transcendentals* by J.&nbsp;Stewart
 >
->  - The 8th custom UB edition is the official version.
->  - The standard 8th edition is also sufficient.
->  - The 7th editions (custom UB or standard) are also sufficient.
+>  - The 9th edition is the official version.
+>  - The 7th and 8th editions are also sufficient.
 

@@ -25,5 +25,5 @@ For students in social, biological, and management sciences. Limits, continuity,
 
 MTH241
 
-For students in social, biological, and management sciences. Limits, continuity, differentiation of algebraic and exponential functions; applications; introduces integration.
+Geometry and vectors of n-dimensional space; Green's theorem, Gauss theorem, Stokes theorem; multidimensional differentiation and integration; application to 2- and 3-D space.
 
