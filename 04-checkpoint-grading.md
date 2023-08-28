@@ -8,8 +8,8 @@
 | U     | Unsatisfactory    | You have made only minimal progress on mastering this learning outcome, or had an unexcused absence from this exam. | No. You will not be able to attempt this learning outcome again for full credit. |
 
 **Additional Attempts**: Each Checkpoint Exam question can be attempted at least twice for full credit as long as you keep scoring (P) Progressing each time.
-- The first attempt is during the lecture Checkpoint Exam.
-- The second attempt is during the next Checkpoint Exam, the following week in lecture.
+- The first attempt is during the first Checkpoint Exam.
+- The second attempt will be two weeks later during that week's Checkpoint Exam.
 - Additionally, any Midterm or Final Exam question that tests the same learning outcome may also be used as an additional attempt (at the discretion of the instructor). 
 
 All together this means that you potentially have 4 opportunities to earn full credit on a majority of the Checkpoint Exam questions.
